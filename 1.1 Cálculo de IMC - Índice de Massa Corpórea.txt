@@ -1,8 +1,8 @@
 algoritmo "CalcularIMC"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 26/01/2022
-// Seção de Declarações
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 var
 P, A, IMC: Real
 inicio
@@ -13,25 +13,25 @@ Leia (A)
 IMC <- P / (A^2)
 Escreval ("IMC: ", IMC:5:2)
 Se (IMC<17) entao
-   Escreval ("Você está muito abaixo do peso ideal.")
+   Escreval ("VocÃª estÃ¡ muito abaixo do peso ideal.")
 Senao
    Se (IMC>=17) e (IMC<18.5)entao
-      Escreval ("Você está abaixo do peso ideal.")
+      Escreval ("VocÃª estÃ¡ abaixo do peso ideal.")
    Senao
       Se (IMC>=18.5) e (IMC<25) entao
-         Escreval ("Parabéns! Você está na faixa de peso ideal!")
+         Escreval ("ParabÃ©ns! VocÃª estÃ¡ na faixa de peso ideal!")
       Senao
          Se (IMC>=25) e (IMC<30) entao
-            Escreval ("Você está na faixa do sobrepeso.")
+            Escreval ("VocÃª estÃ¡ na faixa do sobrepeso.")
          Senao
             Se (IMC>=30) e (IMC<35) entao
-               Escreval ("Você está na faixa de obesidade grau I.")
+               Escreval ("VocÃª estÃ¡ na faixa de obesidade grau I.")
             Senao
                Se (IMC>=35) e (IMC<40) entao
-                  Escreval ("Você está na faixa de obesidade grau II.")
+                  Escreval ("VocÃª estÃ¡ na faixa de obesidade grau II.")
                Senao
                   Se (IMC>=40) entao
-                     Escreval ("Você está na faixa de obesidade grau III ou mórbida.")
+                     Escreval ("VocÃª estÃ¡ na faixa de obesidade grau III ou mÃ³rbida.")
                   FimSe
                Fimse
             Fimse
