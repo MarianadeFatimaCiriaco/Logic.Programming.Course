@@ -1,8 +1,8 @@
 algoritmo "Salariofinal"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 26/01/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
     H, Dias, Salario: Real
 inicio
@@ -10,5 +10,5 @@ inicio
       Leia (H)
       Dias <- H/8
       Salario <- (H*25)
-      Escreval ("O total de dias trabalhados foi de",Dias," dias e o salário final do funcionário será de R$",Salario)
+      Escreval ("O total de dias trabalhados foi de",Dias," dias e o salÃ¡rio final do funcionÃ¡rio serÃ¡ de R$",Salario)
 fimalgoritmo
