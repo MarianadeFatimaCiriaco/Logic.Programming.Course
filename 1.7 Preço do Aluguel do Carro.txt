@@ -1,8 +1,8 @@
 algoritmo "PrecoAluguelCarro"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 26/01/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
     Km, D, Total: Real
 inicio
@@ -11,5 +11,5 @@ inicio
       Escreva ("Por quantos dias o carro fico alugado? ")
       Leia (D)
       Total <- (D*90)+ (Km*0.20)
-      Escreval ("O valor total devido é de R$", Total)
+      Escreval ("O valor total devido Ã© de R$", Total)
 fimalgoritmo
