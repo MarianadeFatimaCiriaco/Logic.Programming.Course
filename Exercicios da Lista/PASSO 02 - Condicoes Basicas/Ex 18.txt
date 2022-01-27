@@ -1,3 +1,5 @@
+//Pode votar ou não?
+
 algoritmo "Podeounaovotar"
 // Função :
 // Autor :

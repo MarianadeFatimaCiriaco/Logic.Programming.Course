@@ -1,3 +1,5 @@
+// Pergunta a quantida de km percorridos e o total de dias alugados. Calcula o preço do aluguel.
+
 algoritmo "PrecoAluguelCarro"
 // Função :
 // Autor :

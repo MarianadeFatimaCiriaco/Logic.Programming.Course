@@ -1,3 +1,5 @@
+//LÊ a altura e a largura de uma parede, mostra a área a ser pintada e calcula a quuantidade de tinta necessária. 
+
 algoritmo "Qtdedetinta"
 // Função :
 // Autor :

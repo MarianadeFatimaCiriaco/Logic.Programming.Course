@@ -1,3 +1,5 @@
+// Calcula a redução do tempo de vida de um fumante.
+
 algoritmo "Vidafumante"
 // Função :
 // Autor :

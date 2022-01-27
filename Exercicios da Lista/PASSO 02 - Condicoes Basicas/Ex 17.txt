@@ -1,3 +1,5 @@
+//Pergunta a velocidade do carro. Se for maior que 80 km/h, é multado.
+
 algoritmo "AplicarMultaVelocidade"
 // Função :
 // Autor :

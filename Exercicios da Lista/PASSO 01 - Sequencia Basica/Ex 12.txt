@@ -1,3 +1,5 @@
+// Calcula o preço de um produto com 5% de desconto.
+
 algoritmo "Precoprodutodesconto"
 // Função :
 // Autor :

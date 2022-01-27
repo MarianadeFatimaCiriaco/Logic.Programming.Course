@@ -1,3 +1,5 @@
+//Lê o número de horas trabalhadas de um funcionário e calcula o salário.
+
 algoritmo "Salariofinal"
 // Função :
 // Autor :

@@ -1,3 +1,5 @@
+// Calcul ao salário com 15% de aumento.
+
 algoritmo "SalariocomAumento"
 // Função :
 // Autor :

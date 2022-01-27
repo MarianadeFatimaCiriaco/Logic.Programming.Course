@@ -1,3 +1,5 @@
+// Lê os valores de A, B e C e calcular o valor de Delta.
+
 algoritmo "Baskara"
 // Função :
 // Autor :

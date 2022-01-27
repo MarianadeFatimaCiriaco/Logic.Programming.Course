@@ -1,6 +1,8 @@
+//Calcula o Índice de Massa Corpórea e verifica sua classificação.
+
 algoritmo "CalcularIMC"
 // Função :
-// Autor :
+// Autor : @author Mariana Ciriaco
 // Data : 26/01/2022
 // Seção de Declarações
 var

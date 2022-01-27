@@ -1,3 +1,5 @@
+// Escreve o nome de um funcionário e o valor do seu salário.
+
 algoritmo "Leronomeeosalario"
 // Função :
 // Autor :
