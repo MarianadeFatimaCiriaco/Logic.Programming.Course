@@ -1,0 +1,19 @@
+algoritmo "Podeounaovotar"
+// Função :
+// Autor :
+// Data : 26/01/2022
+// Seção de Declarações
+var
+   Ano, Nascimento, Idade: Real
+inicio
+      Escreva ("Em qual ano nós estamos? ")
+      Leia (Ano)
+      Escreva ("Em que ano você nasceu? ")
+      Leia (Nascimento)
+      Idade <- Ano - Nascimento
+      Se (Idade>=16) entao
+         Escreval ("Você tem", Idade, " anos e já pode votar.")
+      Senao
+           Escreval ("Você tem", Idade, " anos e ainda não pode votar.")
+      FimSe
+fimalgoritmo
