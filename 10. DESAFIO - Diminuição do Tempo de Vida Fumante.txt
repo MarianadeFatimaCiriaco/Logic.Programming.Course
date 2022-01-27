@@ -1,0 +1,15 @@
+algoritmo "Vidafumante"
+// Função :
+// Autor :
+// Data : 26/01/2022
+// Seção de Declarações 
+var
+CigarrosporDia, Anos, DiasPerdidos: Real
+inicio
+      Escreva ("Qual a quantidade de cigarros que você fuma por dia? ")
+      Leia (CigarrosporDia)
+      Escreva ("Há quantos anos você fuma? ")
+      Leia (Anos)
+      DiasPerdidos <- ((((Anos*365)*CigarrosporDia)*10)/60)/24
+      Escreva ("O seu tempo de vida diminuirá em ", DiasPerdidos:4:2, " dias.")
+fimalgoritmo
