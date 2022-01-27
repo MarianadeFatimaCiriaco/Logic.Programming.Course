@@ -1,8 +1,8 @@
 algoritmo "Baskara"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 26/01/2022
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
    A, B, C, Delta: Real
 inicio
@@ -13,5 +13,5 @@ inicio
       Escreva ("Digite o valor de C: ")
       Leia (C)
       Delta <- (B^2)-(4*A*C)
-      Escreva ("O valor de delta é ", Delta)
+      Escreva ("O valor de delta Ã© ", Delta)
 fimalgoritmo
