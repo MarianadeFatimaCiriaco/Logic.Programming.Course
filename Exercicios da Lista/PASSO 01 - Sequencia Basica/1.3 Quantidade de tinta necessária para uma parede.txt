@@ -1,0 +1,15 @@
+algoritmo "Qtdedetinta"
+// Função :
+// Autor :
+// Data : 26/01/2022
+// Seção de Declarações 
+var
+   H, L, Qtdetinta: Real
+inicio
+      Escreva ("Digite a altura da parede em metros: ")
+      Leia (H)
+      Escreva ("Digite a largura da parede em metros: ")
+      Leia (L)
+      Qtdetinta <- (H*L)/2
+      Escreva ("A quantidade de tinta necessária para pintar esta parede será de",Qtdetinta," litros.")
+fimalgoritmo
